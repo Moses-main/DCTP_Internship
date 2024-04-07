@@ -32,3 +32,12 @@ nav a:hover {
   margin: 20px auto;
   padding: 0 20px;
 }
+.bold {
+  font-weight: bold;
+}
+
+section.education,
+section.jobs {
+  line-height: 0.1px;
+  margin-bottom: 2rem;
+}
